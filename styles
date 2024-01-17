@@ -1,1 +1,41 @@
+body {
+    background-color: rgb(26, 108, 166);
 
+}
+
+.Play{
+    background-color: #c2f0fb;
+    border-radius: 100px;
+    color: rgb(118, 125, 131);
+    background-color: whitesmoke;
+    cursor: pointer;
+    display: inline-block;
+    text-align: center;
+    font-size: 15px;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    transition: all 250ms;
+    position: sticky;
+    padding: 7px 20px;
+    border-radius: 50x;
+    text-decoration: none;
+}
+
+#bottom-box{
+    color: white;
+    position: sticky;
+    display: inline-block;
+    border-radius: 100px;
+    padding: 7px 20px;
+    border-radius: 50x;
+    padding: 50px;
+    margin: 20px;
+    width: 200px;
+    height: 500px;
+}
+
+
+footer{
+    list-style-type: none;
+}
