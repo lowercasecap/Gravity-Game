@@ -21,13 +21,32 @@
     <main>
         <nav>
             <!-- This will be used for asking the user to play a new game, reveal high score, -->
-                <button class="Play"> Play</button>
+                <button class="Play">Play</button>
         </nav>
+
+        <div class="score">
+            <!--Display current game score here-->
+
+        </div>
+
+        <div class="game">
+            <!--Display current game here-->
+
+
+
+
+            <div id="bottom-box"></div>
+
+        </div>
+
+
 
 
     </main>
 <footer>
     <!-- Contact info-->
+    <li><a href="https://github.com/lowercasecap" target="_blank"><i class="fa fa-github fa-lg"></i></a></li>
+    <li><a href="https://www.linkedin.com/in/ryan-werness-7438b618b/" target="_blank"><i class="fa fa-linkedin fa-lg"></i></a></li>
     
 </footer>
 </body>
